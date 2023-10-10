@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there! 👋
+I'm Nisa! I'm aspiring to become a data professional, and I'm all about that hustle to keep learning and growing in the data game. I'm diving into the world of data analysis, and data science, even though my formal education didn't exactly lead me down the computer science or statistics path. But guess what? I'm not letting that stop me! <br>
+<br>
 
-<!--
-**nisa-g/nisa-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✅ Competencies
+Explotaroty Data Analysis, Data Preprocessing, Statistical Analysis, Data Visualization, Machine Learning, ETL/ELT, RDBMS, Business & Data Understanding, Data Mining, Big Data, CRISP ML (Q), Business Intelligence with Power BI, Data Visualization and Storytelling <br>
+<br>
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+Python, SQL (MySQL, MS SQL Server), BigQuery, Power BI, Tableau, Looker Studio, Streamlit, R <br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Project Portofolio
+[**Click here, please!**]()
