@@ -10,5 +10,5 @@ Explotaroty Data Analysis, Data Preprocessing, Statistical Analysis, Data Visual
 Python, SQL (MySQL, MS SQL Server), BigQuery, Power BI, Tableau, Looker Studio, Streamlit, R <br>
 <br>
 
-### 📂 Project Portofolio
+### 📂 Project Portfolio
 [**Click here, please!**](https://github.com/nisa-g/Nisa-Project-Portfolio)
