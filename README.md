@@ -11,4 +11,4 @@ Python, SQL (MySQL, MS SQL Server), BigQuery, Power BI, Tableau, Looker Studio, 
 <br>
 
 ### 📂 Project Portfolio
-[**Click here, please!**](https://github.com/nisa-g/Nisa-Project-Portfolio)
+[**Click here!**](https://github.com/nisa-g/Nisa-Project-Portfolio)
